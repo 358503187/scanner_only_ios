@@ -6,24 +6,6 @@ A QR code scanner only ios
 
 ## Screenshots
 <table>
-<tr>
-<th colspan="2">
-Android
-</th>
-</tr>
-
-<tr>
-<td>
-<p align="center">
-<img src="https://github.com/juliuscanute/qr_code_scanner/blob/master/.resources/android-app-screen-one.jpg" width="30%" height="30%">
-</p>
-</td>
-<td>
-<p align="center">
-<img src="https://github.com/juliuscanute/qr_code_scanner/blob/master/.resources/android-app-screen-two.jpg" width="30%" height="30%">
-</p>
-</td>
-</tr>
 
 <tr>
 <th colspan="2">
@@ -128,8 +110,6 @@ controller.resume();
 ```
 
 
-# SDK
-Requires at least SDK 24 (Android 7.0).
 
 # TODOs
 * iOS Native embedding is written to match what is supported in the framework as of the date of publication of this package. It needs to be improved as the framework support improves.
@@ -137,6 +117,5 @@ Requires at least SDK 24 (Android 7.0).
 * Finally, I welcome PR's to make it better :), thanks
 
 # Credits
-* Android: https://github.com/zxing/zxing
 * iOS: https://github.com/mikebuss/MTBBarcodeScanner
 * Special Thanks To: LeonDevLifeLog for his contributions towards improving this package.
